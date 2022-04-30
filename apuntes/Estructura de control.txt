@@ -1,0 +1,13 @@
+Nos permiten tener más capacidad de generar código
+Nos permite dirigir nuestro proyecto por un camino u otro
+
+Bifurcaciones: son estructuras que nos permiten continuar con un camino
+u otro.
+
+Ejemplo: Banco 
+condición, si se cumple = true 
+if(condicion == true){
+    camino 1
+}else{
+    camino 2
+}
