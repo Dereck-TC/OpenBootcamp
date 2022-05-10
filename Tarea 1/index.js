@@ -1,1 +1,1 @@
-console.log("Estoy realizando el curso de JavaScript, espero aprender mucho");
+console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo");
