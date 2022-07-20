@@ -4,6 +4,10 @@ function hola(){
 }
 console.log(hola())
 
+async function miPromesa() {
+    const text = setTimeout(() => console.log("Hola soy una promesa"), 5000)
+    return text
+}
 
 //funcion generadora
 function* generarId(){
