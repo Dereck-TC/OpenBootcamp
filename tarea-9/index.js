@@ -4,7 +4,7 @@ const miError = (()=>{
 })
 
 try {
-    logger.info("Todo correcto")
+    miError()
 } catch (error) {
-    logger.error(miError())
+    logger.error(error.toString())
 }
