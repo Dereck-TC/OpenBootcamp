@@ -1,0 +1,8 @@
+CommonJS -> por defecto
+const data = require("./modulos/matematicas.js")
+
+ES6 -> modules
+import * as moduloMatematicas from "./modulos/matematicas.js" 
+import {valor1, valor2} from "./modulos/matematicas.js"
+
+para utilizar ES6 primero vamos al package.json y colocamos el atributo type, por defecto en commonJS
